@@ -1,0 +1,188 @@
+body{
+	font-family: 'Roboto Slab', serif;
+}
+#intro{
+	background-image: url(../img/maxresdefault.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+	color: #fff;
+	height: 400px;
+	padding-bottom: 0px;
+
+}
+#intro h1{
+	color: #FFFFFF;
+	padding-top: 150px;
+	font-size: 50px;
+}
+#intro h4{
+	color: #FFFFFF;
+	font-size: 20px;
+	padding-bottom: 20px;
+}
+
+#intro .btn-default{
+	background-color: transparent;
+	border-width: 2px;
+	color: #fff;
+}
+#intro .btn-default:hover{
+	background-color: #F36595;
+	border-color: #F36595;
+	
+}
+
+#about{
+	padding-bottom: 100px;
+}
+
+
+
+#services{
+	background-color: #C13A93;
+	color: #fff;
+	font-weight: lighter;
+	padding-bottom: 100px;
+		background-image: url(../img/../img/serigrafia-6.jpg);
+}
+
+#services .far{
+	font-size: 40px !important;
+	color: #000;
+	border-radius: 10px;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	box-sizing: padding-box;
+	background-color: #fff;
+}
+#services .fab{
+	font-size: 40px !important;
+	color: #000;
+	border-radius: 10px;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	box-sizing: padding-box;
+	background-color: #fff;
+}
+#services .fas{
+	font-size: 40px !important;
+	color: #000;
+	border-radius: 10px;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	box-sizing: padding-box;
+	background-color: #fff;
+}
+#services p{
+	padding-bottom: 20px;
+}
+
+
+#services #foto p{
+	font-weight: lighter;
+}
+
+#foto i{
+	background-color: #FFFFFF;
+}
+
+#services #laptop p{
+	font-weight: lighter;
+}
+
+#laptop i{
+	background-color: #FFFFFF;
+}
+
+#services #arte p{
+	font-weight: lighter;
+}
+
+#arte i{
+	background-color: #FFFFFF;
+}
+
+#services #empaque p{
+	font-weight: lighter;
+}
+#empaque i{
+	background-color: #FFFFFF;
+}
+
+#proyect h4{
+	text-transform: uppercase;
+	font-weight: bold;
+	background-color: #EBEBEB;
+	height: 40px;
+	line-height: 40px;
+}
+#proyect article{
+	padding-bottom: 50px;
+}
+#proyect img{
+	border-radius: 10px;
+}
+#contact{
+	background-image: url(../img/rose-2378156_1920.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+	color: #fff;
+	height: 400px;
+	padding-bottom: 100px;
+}
+#contact label{
+	font-weight: normal;
+}
+#footer{
+	background-color: #343333;
+	color: #fff;
+	font-weight: lighter;
+}
+
+#ventajas{
+	color: #000; 
+	font-weight: normal;
+}
+
+#services img{
+	margin-left: 100px;
+	border-radius: 40px;
+margin-bottom: 30px;
+	margin-top: 10px;
+}
+
+#contact h3{
+	color: #000;
+}
+
+#equipos h4{
+	color: #000;
+}
+
+#equipos{
+	padding-bottom: 40px;
+}
+#dato{
+	background-color: #343434;
+	color: #fff;
+	height: 400px;
+	padding-bottom: 100px;
+	
+}
+#dato img{
+	border-radius: 20px;
+}
+#dato p{
+	font-weight: lighter;
+}
+#dato h3{
+	color: #fff;
+}
+
+
+
